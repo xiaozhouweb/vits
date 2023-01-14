@@ -1,0 +1,12 @@
+DUMMY1
+DUMMY2
+DUMMY3
+__pycache__
+.ipynb_checkpoints
+.*.swp
+
+wavs
+logs
+build
+*.c
+monotonic_align/monotonic_align

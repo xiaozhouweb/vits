@@ -1,0 +1,96 @@
+./wavs/vo_SDEQ001_19_ayaka_06.wav|x iong1 zh ang3 c eng2 sh uo1 k ong3 j 4 ch u1 z i4 r en2 x in1 , n ei4 x in1 an1 n ing2 , k ong3 j 4 z i4 r an2 x iao1 s an4 , x ian4 z ai4 uo3 m ing2 b ai2 l e .
+./wavs/vo_AYLQ003_5_ayaka_22.wav|n , uo3 sh i4 zh e4 m e x iang3 d e .
+./wavs/vo_AYLQ005_4_ayaka_04.wav|l 3 x ing2 zh e3 , p ai4 m eng2 … n i3 m en j e2 d e n e ?
+./wavs/vo_DQAQ008_2_ayaka_05b_2.wav|in1 c i3 d a4 b u4 f en m in2 zh ong4 zh i3 h uei4 x an3 z e2 l eng3 m o4 ch u4 zh i1 .
+./wavs/vo_AYLQ001_2_ayaka_01.wav|l 3 x ing2 zh e3 , p ai4 m eng2 , q ing3 l iou2 b u4 .
+./wavs/vo_ZYCOP001_1901605_ayaka_10.wav|er2 zh e4 iang4 d e sh i4 , j iou4 s uan4 i1 zh i2 u2 sh i4 x ia4 q 4 , t a1 d ou1 b u4 h uei4 x iao1 sh i1 . n i3 d e l ao3 sh i1 j iang1 r en3 sh u4 ch uan2 sh ou4 g ei3 n i3 , j iou4 sh i4 uei4 l e r ang4 n i3 n eng2 ing4 d uei4 zh e4 iang4 d e r en4 u .
+./wavs/vo_AYLQ004_7_ayaka_38.wav|s i4 h u1 … ie3 m ei2 iou3 j i1 h uei4 j ian4 d ao4 t a1 uan2 ch eng2 zh e4 j ian4 sh i4 l e n e .
+./wavs/vo_DQAQ008_2_ayaka_13.wav|n , uo3 m en ie3 zh i1 d ao4 zh e4 b u sh i4 ch ang2 j iou3 zh i1 j i4 , b ao4 l u4 sh i4 m ei2 b an4 f a3 d e sh i4 … d an4 uo3 m en j e2 d uei4 b u4 n eng2 f ang4 q i4 zh eng4 sh eng4 sh i1 f u .
+./wavs/vo_DQAQ008_2_ayaka_05c_1.wav|t a1 m en i1 zh i2 b ai3 ch u1 i1 f u4 u2 t iao2 j ian4 zh i1 ch i2 j iang1 j n1 j e2 d ing4 d e t ai4 d u , m ei2 iou3 r en4 h e2 sh ang1 t ao3 d e i4 s i .
+./wavs/vo_SDEQ001_15_ayaka_01.wav|k an4 b u q ing1 ch u3 , h ao3 x iang4 iou3 sh en2 m e d ong1 x i1 z ai4 d ong4 …
+./wavs/vo_AYLQ005_3_ayaka_07.wav|b u4  b u2 sh i !
+./wavs/vo_ayaka_mimitomo_friendship3_06.wav|… x iang3 b i4 ie3 h uei4 j ia1 sh en1 uo3 d uei4 ch a2 d ao4 d e l i3 j ie3 b a .
+./wavs/vo_AYLQ005_3_ayaka_17.wav|uo3 … n … uo3 … sh i4 zh en1 x in1 iao4 h e2 n i3 i1 q i3 l ai2 d e .
+./wavs/vo_DQAQ008_2_ayaka_05a_2.wav|t a1 d e q ing2 g an3 s i4 h u1 f ei1 ch ang2 d an4 b o2 , b i3 q i3  t ong3 zh i4 zh e3  h uo4 x 3 g eng4 x iang4 i2 g e4 u2 q ing2 d e  zh i2 x ing2 zh e3 , i3 g e4 zh ong3 x ing2 sh i4 j ian4 x ing2 zh e  iong3 h eng2  zh e4 uei2 i1 d e m u4 b iao1 .
+./wavs/vo_AYLQ005_6_ayaka_09b.wav| zh e4 sh i4 n i3 h e2 n i3 d e MATEAVATARSEXPROINFO_MALE_PRONOUN_BROTHERINFO_FEMALE_PRONOUN_SISTER d uei4 b a ?
+./wavs/vo_ayaka_battle_hit_H_02.wav|z en3 m e h uei4 …
+./wavs/vo_DQAQ008_2_ayaka_11.wav|k e3 b ie2 x iao3 q iao2 h ua1 j ian4 b an3 n a4 x ie1 sh ou3 i4 r en2 d e g ong1 i4 , t a1 m en k e3 i3 d a3 z ao4 ch u1 r ou4 ian3 n an2 b ian4 d e sh en2 zh i1 ian3 f ang3 p in3 .
+./wavs/vo_AYLQ002_15_ayaka_16.wav|h eng1 h eng1 , d i4 d ian3 sh i4 uo3 j ing1 x in1 t iao1 x an3 d e i1 j ia1 l in2 j ie1 c an1 g uan3 —— m u4 n an2 l iao4 t ing2 .
+./wavs/vo_AYLQ005_8_ayaka_05.wav|……
+./wavs/vo_ayaka_dialog_annoyed_01.wav|f an2 n ao3 m a ? a , sh i4 a . zh i3 iao4 sh eng1 h uo2 z ai4 zh e4 g e sh i4 j ie4 sh ang4 , j iou4 n an2 m ian3 4 d ao4 zh ong3 zh ong3 b u4 r u2 i4 d e sh i4 q ing . d an4 r u2 g uo3 sh i4 in1 uei4 z i4 j i3 d e sh i4 q ing , j iou4 r ang4 zh ou1 z ao1 d e r en2 d an1 x in1 d e h ua4 … g uo3 r an2 , uo3 h ai2 sh i b u4 n eng2 sh uo1 …
+./wavs/vo_ayaka_character_idle_02.wav|j ian4 , j iou4 h e2 ch a2 i1 iang4 , x i4 x i4 p in3 uei4 c ai2 n eng2 l i3 j ie3 q i2 zh ong1 f eng1 ia3 .
+./wavs/vo_DQAQ008_1_ayaka_12.wav|n , n a4 sh i z i4 r an2 , h e1 h e1 .
+./wavs/vo_DQAQ008_8_ayaka_11b_5.wav|n eng2 iou3 x ie1 ch uan3 x i1 sh i2 j ian1 d e h ua4 , uo3 ie3 iou3 i1 x ie1 x iang3 z uo4 d e sh i4 q ing …
+./wavs/vo_DQAQ008_1_ayaka_10.wav|k an4 l ai , n i3 m en n eng2 l i3 j ie3 uo3 d e x in1 q ing2 l e , j i4 r an2 zh e4 iang4 , b u4 zh i1 n eng2 f ou3 z ai4 k ao3 l 4 i1 x ia4 …
+./wavs/vo_ZYCOP001_1901605_ayaka_15.wav|h en3 t eng2 ai4 t a1 d e l ao3 sh i1 t u1 r an2 l i2 k ai1 , t a1 d ao4 x ian4 z ai4 ie3 iou3 d ian3 u2 s uo3 sh i4 c ong2 .
+./wavs/vo_ayaka_mimitomo_friendship1_01.wav|h e1 h e1 , j ing4 q ing3 f ang4 x in1 .
+./wavs/vo_AYLQ002_10_ayaka_02.wav|sh ao1 d eng3 i1 x ia4 .
+./wavs/vo_ayaka_mimitomo_friendship2_02b_2.wav|f eng1 h ua1 x e3 e4 , s uei1 r an2 z uo4 uei2 uo3 m en sh u2 zh i1 d e sh i4 u4 c uen2 z ai4 2 sh i4 j ie4 zh i1 zh ong1 , d an4 ie3 ing1 iou3 sh u3 2 t a1 m en z i4 j i3 d e  g an3 q ing2 .
+./wavs/vo_AYLQ005_8_ayaka_07.wav|g en1 n i3 z ai4 i1 q i3 d e sh i2 j ian1 … g uo4 d e2 h en3 k uai4 , iou4 h en3 m an4 .
+./wavs/vo_card_ayaka_inGame_easy_02.wav|h ao3 sh ou3 d uan4 .
+./wavs/vo_DQAQ008_8_ayaka_07.wav|b i4 x 1 iao4 k ai1 sh i3 zh uen3 b ei4 j in1 h ou4 d e j i4 h ua4 l e …
+./wavs/vo_AYLQ002_6_ayaka_15.wav|g e4 uei4 , q ing3 s uei2 uo3 d ao4 sh i4 f a1 d i4 d ian3 j in4 x ing2 d iao4 ch a2 .
+./wavs/vo_AYLQ003_5_ayaka_29.wav|b u4 k uei4 sh i4 l i2 e4 … g u3 l ao3 d e uen2 h ua4 n4 4 zh e z uei4 m ei3 l i4 d e ch uan2 sh uo1 , l ing4 r en2 x iang4 uang3 .
+./wavs/vo_AYLQ002_14_ayaka_01.wav|n , m ai3 d ao4 l iao3 .
+./wavs/vo_RCJEQ004_5_ayaka_02.wav|q i2 sh i2 sh i4 g ang1 c ai2 , uo3 q 4 r ong2 c ai3 j i4 h uei4 ch ang3 an1 p ai2 ch a1 h ua1 k e4 ch eng2 d e sh i4 , z ai4 h ua1 j ia4 sh ang4 f a1 x ian4 l e i1 zh ang1 sh en2 m i4 d e zh i3 p ian4 .
+./wavs/vo_ayaka_chest_open_03.wav|uo3 h uei4 zh en1 x i1 zh e4 i1 f en4 x ing4 n4 .
+./wavs/vo_DQAQ008_8_ayaka_05.wav| q e4 sh i2 , r u2 g uo3 m ei2 iou3 NICKNAME d e b ang1 m ang2 , zh e4 c i4 d e j iou4 an2 b u4 k e3 n eng2 n a4 m e sh uen4 l i4 .
+./wavs/vo_AYLQ003_1_ayaka_03.wav|d ian3 d an1 j iou4 an4 zh i1 q ian2 uo3 4 e1 d e n ei4 r ong2 , l ing4 uai4 , h e2 n i3 sh uo1 h ao3 d e n a4 j ian4 sh i4 … ie3 b ai4 t uo1 l e .
+./wavs/vo_RCJEQ005_12_ayaka_03.wav|uo3 z uei4 j in4 h uei4 q 4 h e2 x iong1 zh ang3 sh ang1 i4 i1 x ia4 , d iao4 ch a2 zh e4 g e j iao4 g uo2 b eng1 zh i1 r en2 d e sh en1 f en4 . uo3 m en h uei4 sh en4 zh ong4 x ing2 d ong4 , g e4 uei4 k e3 i3 f ang4 x in1 .
+./wavs/vo_DQAQ008_8_ayaka_11b_3.wav|b ao4  b ao4 q ian4 … uo3 h ai2 i3 uei2 h uei4 h en3 h ao3 ch i1 d e …
+./wavs/vo_AYLQ005_7_ayaka_02.wav|r en4 sh i zh i4 j in1 , uo3 d e x ing4 g e2 , n i3 ing1 g ai1 i3 j ing1 l iao3 j ie3 l e b a ?
+./wavs/vo_AYLQ003_5_ayaka_14.wav|u1 …
+./wavs/vo_AYLQ001_2_ayaka_06.wav|q ian2 j i3 t ian1 , uo3 c ong2 j iou4 u4 d uei1 l i3 zh ao3 d ao4 i1 b en3 m u3 q in1 l iou2 x ia4 d e b i3 j i4 .
+./wavs/vo_dialog_RCJEQ005_ayaka_03.wav|b u4 , d ao1 z uo4 s uei1 r an2 sh i4 sh ang4 h ao3 d e m u4 l iao4 , d an4 b ai3 z ai4 sh ang4 m ian4 d e q e4 sh i4 i1 b a3 h en3 p u3 t ong1 d e d ao1 . an4 zh ao4 f eng1 an2 j ia1 z uei4 h ou4 d e j ing1 j i4 zh uang4 k uang4 , zh i2 q ian2 d e sh ou1 c ang2 k en3 d ing4 i3 j ing1 n a2 q 4 b ian4 m ai4 l e .
+./wavs/vo_RCJEQ004_8_ayaka_06.wav|zh i3 k e3 x i1 , x ian4 z ai4 l ei2 d ian4 u3 ch uan2 i3 j ing1 zh i3 sh eng4 x ia4  t ian1 m u4 l iou2  r eng2 iou3 sh i1 t u2 ch uan2 ch eng2 , i1 x in1 ch uan2  s uei1 r an2 j i4 i4 sh i1 ch uan2 , d an4 s uo3 x ing4 h ai2 iou3 h ou4 r en2 z ai4 sh i4 .
+./wavs/vo_AYLQ003_1_ayaka_05.wav|h ai1 h ai1 … b u2 sh i n a4 zh ong3 q ing2 k uang4 l a .
+./wavs/vo_ayaka_dialog_pendant.wav| sh en2 zh i1 ian3 , j i2 sh i4 x iong1 h uai2 d a4 zh i4 zh i1 r en2 s uo3 h uo4 d e in4 sh ou4 . r u2 g uo3 uen4 uo3 iou3 sh en2 m e zh i4 x iang4 d e h ua4 … zh e4 g e h ai2 sh i b ao3 m i4 b a , zh i3 sh i4 i2 g e4 uei1 b u4 z u2 d ao4 d e m eng4 x iang3 b a4 l e .
+./wavs/vo_AYLQ004_7_ayaka_27.wav|x i3 h uan p iao4 l iang d e zh e u4 , x iang3 iao4 ch ang2 sh i4 m ei3 g e4 d i4 q 1 d e m ei3 sh i2 , k e3 uang4 b u4 c eng2 j ian4 g uo4 d e m ei3 j ing3 …
+./wavs/vo_DQAQ008_2_ayaka_05b_6.wav|ie3 b u4 zh i1 iou2 t a1 m en l ing3 d ao3 d e f an3 k ang4 j n1 , sh i4 f ou3 b ie2 iou3 s uo3 t u2 n e …
+./wavs/vo_DQAQ008_2_ayaka_04.wav| h ao3 l e , j i4 r an2 zh e4 l i3 k e3 i3 ch ang4 s uo3 4 ian2 , n a4 m e NICKNAME h ai2 iou3 sh en2 m e uen4 t i2 iao4 uen4 m a ?
+./wavs/vo_dialog_RCJEQ005_ayaka_05.wav|uo3 z ai4 z ai4 f u4 j in4 d iao4 ch a2 i1 x ia4 q i2 t a1 d ong1 x i1 , r u2 g uo3 iou3 f a1 x ian4 d e h ua4 j iou4 h an3 n i3 m en .
+./wavs/vo_SDEQ001_7_ayaka_04.wav|q i2 sh i2 , uo3 b ing4 b u4 sh an4 ch ang2 ing4 d uei4 sh en2 g uei3 zh i1 sh i4 … z ong3 d an1 x in1 z i4 j i3 b iao3 x ian4 d e2 t ai4 g uo4 sh i1 l i3 , h uei4 l ing4 j ia1 z u2 m eng2 x iou1 .
+./wavs/vo_ayaka_spice_normal_01.wav|x ie4 x ie n i3 r ang4 uo3 iou3 j i1 h uei4 ch ang2 sh i4 zh e4 d ao4 c ai4 , uo3 h uei4 b a3 t a1 d e uei4 d ao j i4 z ai4 x in1 l i d e .
+./wavs/vo_ayaka_spice_dislike_01.wav|a … sh ao1 uei1 iou3 d ian3 iou2 n i4 l e n e .
+./wavs/vo_RCJEQ005_3_ayaka_01.wav|g e4 uei4 , d ang1 n ian2 n a4 f en4 t u2 p u3 uo3 i3 j ing1 zh ao3 d ao4 l e .
+./wavs/vo_ayaka_mimitomo_friendship3_07a_2.wav|n i3 sh i4 an3 d u4 zh ong4 t ian1 , ch uang4 z ao4 zh u1 d uo1 uei3 ie4 zh i1 r en2 .
+./wavs/vo_ayaka_dialog_share.wav|sh i4 uen4 , ch ang2 sh uo1  ch an2 ch a2 i1 uei4 , iou4 sh uo1  j ian4 ch an2 i1 r u2 , n a4 m e j ian4 h e2 ch a2 , iou4 sh i4 sh en2 m e g uan1 x i n e ?
+./wavs/vo_AYLQ005_6_ayaka_17.wav|sh i4 a , j i4 d ian3 ch a4 b u d uo1 iao4 j ie2 sh u4 l e .
+./wavs/vo_SDEQ001_7_ayaka_06.wav|t ai4 h ao3 l e … r u2 g uo3 b u4 j ie4 i4 d e h ua4 , iao4 b u4 iao4 h e2 uo3 z u3 d uei4 n e ?
+./wavs/vo_AYLQ003_1_ayaka_15.wav|zh e4 c i4 iao4 q 4 j ian4  ch uen1 , uo3 b ian4 x iang3 zh e , sh i4 b u4 sh i4 z uo4 i1 f en4 i4 g uo2 l iao4 l i3 d ai4 g ei3 d uei4 f ang1 b i3 j iao4 h ao3 …
+./wavs/vo_AYLQ005_6_ayaka_19.wav|……
+./wavs/vo_AYLQ003_1_ayaka_16a.wav|uo3 ie3 zh e4 m e x iang3 ! x iang4 n i3 zh e4 iang4 s i4 ch u4 l 3 x ing2 d e r en2 , i1 d ing4 d ong3 d e h en3 d uo1 zh i1 sh i , l iao3 j ie3 g e4 d i4 m ei3 sh i2 …
+./wavs/vo_DQAQ004_4_ayaka_01.wav|k e2 … k e2 .
+./wavs/vo_DQAQ008_2_ayaka_06.wav|n ? p ai4 m eng2 x iang3 uen4 sh en2 m e ?
+./wavs/vo_ayaka_weather_heavyRain_01.wav|q ing3 s uei2 uo3 i1 t ong2 b i4 3 b a .
+./wavs/vo_AYLQ002_6_ayaka_06.wav|s uei1 r an2 uo3 g e4 r en2 ie3 b u4 z en3 m e r en4 k e3  k an1 d ing4 f eng4 x ing2  d e x ing2 sh i4 z uo4 f eng1 , d an4 j iou3 l i4 x 1 x ian1 sh eng , zh e4 l i3 b i4 j ing4 sh i4 d ao4 q i1 , q ing3 zh u4 i4 n in2 d e f a1 ian2 .
+./wavs/vo_DQAQ008_8_ayaka_11a_2.wav|b ao4  b ao4 q ian4 … uo3 h ai2 i3 uei2 h uei4 h en3 h ao3 ch i1 d e …
+./wavs/vo_card_ayaka_endOfGame_win_01.wav|sh ou3 x ia4 l iou2 q ing2 d e h ua4 , sh i4 ing2 b u4 g uo4 uo3 d e o2 ?
+./wavs/vo_DQAQ008_1_ayaka_06.wav|h uei2 d ao4 zh eng4 t i2 sh ang4 l ai2 , z ai4 k an4 d ao4 n a4 x ie1 sh i1 q 4 sh en2 zh i1 ian3 d e r en2 d e k u3 t ong4 zh i1 h ou4 , n i3 m en z uo4 h e2 g an3 x iang3 n e ?
+./wavs/vo_AYLQ002_6_ayaka_04.wav|h uo4 u4 d e j 4 t i3 n ei4 r ong2 sh i4 sh en2 m e ?
+./wavs/vo_DQAQ008_1_ayaka_08.wav|l ei2 m ing2  q i1 g uang1  k uang2 f eng1  zh ou4 3 … t a1 m en d e d ao4 l ai2 ie3 iong3 an3 b u4 h uei4 g u4 j i2 f an2 r en2 d e g an3 sh ou4 .
+./wavs/vo_DQAQ004_4_ayaka_07.wav|l 3 x ing2 zh e3 , q ing3 j iang1 n i3 d e l i4 l iang j ie4 g ei3 uo3 , uo3 m en i1 d ing4 n eng2 g ou4 …
+./wavs/vo_DQAQ105_5_ayaka_02.wav|x in1 k u3 l e , j ie1 x ia4 l ai2 j iou4 d eng3 z ao3 iou4 d e x iao1 x i b a .
+./wavs/vo_ayaka_mimitomo_friendship2_02a_3.wav|j ie4 iou2 z uo4 zh e3 d e ian3 j ing , j iou4 n eng2 sh en1 l in2 q i2 j ing4 d i4 k an4 j ian4 sh i4 j ian1 uan4 j ing3 . j i2 sh i3 sh i4 sh u2 x i1 d e f eng1 u4 , ie3 h uei4 m eng2 sh eng1 g eng1 sh en1 i1 c eng2 d e g an3 ch u4 .
+./wavs/vo_DQAQ105_2_ayaka_10.wav|d ao4 ie3 b u4 u2 d ao4 l i . t ian1 l ing3 f eng4 x ing2 p ang2 b ian1 j iou4 sh i4 q ian1 sh ou3 b ai3 ian3 sh en2 x iang4 , r u2 g uo3 n eng2 z ai4 sh en2 x iang4 zh ou1 uei2 d ian3 r an2 ian1 h ua1 , t ian1 l ing3 f eng4 x ing2 b u4 h uei4 b u4 g uan3 .
+./wavs/vo_AYLQ002_2_ayaka_14.wav|x ie4 x ie n in2 . n a4 uo3 m en j iou4 x ian1 g ao4 c i2 l e .
+./wavs/vo_AYLQ005_4_ayaka_09b.wav|ua … n i3 n4 q i zh en1 h ao3 a .
+./wavs/vo_ayaka_friendship_02.wav|c eng2 j ing1 , sh en2 l i3 j ia1 in1 uei4 m ei2 n eng2 b ao3 h u4 h ao3 g uo2 b ao3 j i2 b ie2 d e d ao1 g ong1 , z ao1 sh ou4 l e b u4 x iao3 d e ch ong1 j i1 . sh ou4 2 r en2 zh ong4 in1 m ou2 s uan4 j i , uo3 m en sh e2 s uen3 l e zh u1 d uo1 ch en2 x ia4 , sh ou4 d ao4 x 3 d uo1 z e2 f a2 . f u4 q in1 sh en4 zh i4 in1 zh i1 z ao3 sh uai1 , sh en2 l i3 j ia1 z ai4 m u4 f u3 zh ong4 d i4 d i4 uei4 ie3 i1 l uo4 q ian1 zh ang4 … h ao3 z ai4 x iong1 zh ang3 j i4 r en4 h ou4 l i4 uan3 k uang2 l an2 . b u4 g uo4 , j ia1 m en2 s uei1 i3 f u4 x ing1 , sh e4 f eng4 x ing2 i1 x i4 ie3 sh ang4 x ia4 q i2 x in1 , d an4 d a4 sh i4 iao4 sh i4 f ang1 m ian4 , r eng2 k ao4 x iong1 zh ang3 d ing4 d uo2 .
+./wavs/vo_DQAQ004_4_ayaka_10.wav|u2 …
+./wavs/vo_ayaka_mimitomo_friendship1_04b_2.wav| s uei2 i4 x iou1 x i  k uei4 b u4 g an3 d ang1 , b u4 g uo4 n eng2 z ai4 zh e4 l i3 x iao3 q i4 p ian4 k e4 , d uei4 uo3 l ai2 sh uo1 d i2 q e4 sh i4 f ei1 ch ang2 zh i2 d e g an3 x ie4 d e sh i4 q ing .
+./wavs/vo_AYLQ004_7_ayaka_45.wav|n a4 g e … l 3 x ing2 zh e3 , uo3 … e4 …
+./wavs/vo_AYLQ002_2_ayaka_07.wav|i1 n in2 zh i1 j ian4 , zh e4 sh i4 …
+./wavs/vo_ZYCOP001_1901605_ayaka_02.wav|q ing2 k uang4 j i1 b en3 n ong4 q ing1 ch u3 l e , x iao3 ch uan1 x ian1 sh eng h ao3 x iang4 sh i4 sh ou4 d ao4 l e h ai3 l uan4 g uei3 d e x ie2 p o4 , b ing4 b u4 sh i4 zh en1 d e x iang3 iao4 f u2 j i1 n i3 .
+./wavs/vo_DQAQ004_4_ayaka_12.wav|sh i4 g uan1 2 , s an1 g e4 sh i1 q 4 sh en2 zh i1 ian3 d e r en2 … d eng3 n i3 j ian4 g uo4 t a1 m en , h uo4 x 3 j iou4 n eng2 m ing2 b ai …
+./wavs/vo_ayaka_starUp_04.wav| ch ang2 iou3 s uo3 s i1 , s i1 sh i4 r u2 p an2  sh u2 l iao4 f u2 sh i4 sh i4 , l iou2 zh u4 n an2 .n… b ao4 q ian4 , m ing2 m ing2 sh i4 zh i2 d e g ao1 x ing4 d e sh i2 h ou , uo3 q e4 x iang3 q i3 l e n a4 m e b ei1 sh ang1 d e sh i1 g e1 . h e2 n i3 x iang1 ch u3 d e sh i2 j ian1 g uo4 2 ch ang4 h uai2 , j ing4 r an2 r ang4 uo3 h ai4 p a4 z ai4 c i4 sh i1 q 4 . zh en1 sh i … sh i1 t ai4 l e ia .
+./wavs/vo_AYLQ005_3_ayaka_15.wav|a d eng3 d eng3 … q ing3 d eng3 i1 x ia4 .
+./wavs/vo_AYLQ004_7_ayaka_52.wav|x ian4 z ai4 q 4 d e h ua4 , ing1 g ai1 h ai2 n eng2 g an3 sh ang4 .
+./wavs/vo_DQAQ008_1_ayaka_14.wav|n a4 m e , zh i4 2 n a4 x ie1 … m i4 m i4 d e sh i4 , uo3 m en h ai2 sh i i2 b u4 m u4 l ou4 ch a2 sh i4 z ai4 z uo4 t ao3 l uen4 b a ? i3 m ian3 q ian1 l ian2 sh e4 f eng4 x ing2 l i3 d e i1 b an1 r en2 .
+./wavs/vo_AYLQ002_2_ayaka_05.wav|a ! d ou1 g uai4 uo3 k ao3 l 4 g ong1 z uo4 , h ai4 d a4 j ia1 p ao3 t i2 l e … b ao4 q ian4 , uo3 iao4 q 4 d e sh i4 p ang2 b ian1 zh e4 j ia1 d ian4 p u4 .
+./wavs/vo_AYLQ003_5_ayaka_04.wav|z en3 m e iang4 , d ao4 q i1 d e l iao4 l i3 h e2 n i3 m en k ou3 uei4 m a ?
+./wavs/vo_DQAQ009_1_ayaka_06.wav|ing1 g ai1 … sh i4 d e , j iang1 j n1 h e2 t ian1 l ing3 f eng4 x ing2 d e r en2 zh uen3 b ei4 i3 d i4 i1 b ai3 k e1 sh en2 zh i1 ian3 d e  sh ou4 ian3 i2 sh i4 , l ai2 zh eng4 m ing2 ian3 sh ou4 l ing4 d e j ie1 d uan4 x ing4 ch eng2 g uo3 .
+./wavs/vo_SDEQ001_19_ayaka_03.wav|n an2 d ao4 sh uo1 , iou3 sh en2 m e d ong1 x i1 z ai4 k an1 sh ou3 zh e zh e4 x ie1 t uan2 z i n iou2 n ai3 …
+./wavs/vo_AYLQ005_7_ayaka_05.wav|j i4 d ian3 zh en1 h ao3 a ! m ei2 iou3 n a4 m e d uo1 g uei1 j  , m ei3 g e r en2 l ian3 sh ang4 d u1 iang2 i4 zh e f a1 z i4 n ei4 x in1 d e x iao4 r ong2 , z i4 z ai iou4 k uai4 l e4 …
+./wavs/vo_ayaka_mimitomo_friendship1_06.wav|r u2 g uo3 iou3 uo3 n eng2 x iang1 zh u4 zh i1 ch u4 , x i1 uang4 uo3 ie3 n eng2 b ang1 sh ang4 n i3 .
+./wavs/vo_AYLQ002_12_ayaka_16.wav|uo3 x iang3 , zh e4 ie3 x 3 sh i4 in1 uei4 , uo3 x in1 d i3 sh en1 ch u4 b ing4 b u4 r en4 uei2 i2 g e4 m in2 sh eng1 z ao1 d ao4 z u3 ai4 d e sh e4 h uei4 k e3 i3 b ei4 ch eng1 uei2 j e2 d uei4 d e  zh eng4 q e4  b a …
+./wavs/vo_SDEQ001_19_ayaka_01.wav|n i3 m en k an4 , zh e4 x ie1 sh i4 b u4 sh i4 uo3 m en iao4 zh ao3 d e t uan2 z i n iou2 n ai3 ?
